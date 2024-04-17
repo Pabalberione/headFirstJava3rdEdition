@@ -1,3 +1,5 @@
+package Chapter2;
+
 /**
  * Your job is to take code snippets from the
  * pool and place them into the blank

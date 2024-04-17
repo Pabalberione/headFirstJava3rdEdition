@@ -1,4 +1,4 @@
-package beTheCompilerPage42.Song;
+package Chapter2.beTheCompilerPage42.Song;
 
 public class StreammingSong {
     String title;

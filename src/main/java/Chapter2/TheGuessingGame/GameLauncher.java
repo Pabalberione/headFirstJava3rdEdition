@@ -1,4 +1,4 @@
-package TheGuessingGame;
+package Chapter2.TheGuessingGame;
 
 /**
  * Summary:

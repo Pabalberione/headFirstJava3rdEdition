@@ -1,4 +1,4 @@
-package beTheCompilerPage42.Episode;
+package Chapter2.beTheCompilerPage42.Episode;
 
 public class Episode {
     int seriesNumber;
