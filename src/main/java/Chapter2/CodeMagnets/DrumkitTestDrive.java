@@ -1,4 +1,4 @@
-package CodeMagnets;
+package Chapter2.CodeMagnets;
 
 /**
  * A Java program is all scrambled up on

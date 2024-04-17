@@ -1,4 +1,4 @@
-package CodeMagnets;
+package Chapter2.CodeMagnets;
 
 public class DrumKit {
     boolean topHat = true;

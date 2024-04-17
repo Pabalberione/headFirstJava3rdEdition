@@ -1,3 +1,5 @@
+package Chapter2;
+
 /**
  * A short Java program is listed below. One block of the program
  * is missing. Your challenge is to match the candidate block of
